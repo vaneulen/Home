@@ -1,5 +1,5 @@
 ## Home
 
-[Status](https://vaneulen.github.io/Status/)
+[WhatsApp Status](https://vaneulen.github.io/Status/)
 
 [Bildergalerie art:ig](https://www.artig-muenchen.de/kunstler/manuel-knoedlseder/)
