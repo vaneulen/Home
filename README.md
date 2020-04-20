@@ -14,5 +14,5 @@
 
 
 <div class="text-purple mb-2">
-  [WhatsApp Status](https://vaneulen.github.io/Status/)
+  .(https://vaneulen.github.io/Status/)
 </div>
