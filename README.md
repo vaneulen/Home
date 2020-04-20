@@ -14,5 +14,5 @@
 
 
 <div class="text-purple mb-2">
-  .(https://vaneulen.github.io/Status/)
+  .test
 </div>
