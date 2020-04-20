@@ -12,7 +12,3 @@
 
 [Websites and tools](https://vaneulen.github.io/web-and-tools/)
 
-
-<div class="text-purple mb-2">
-  .test
-</div>
