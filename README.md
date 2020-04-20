@@ -11,3 +11,8 @@
 [News](https://vaneulen.github.io/news/)
 
 [Websites and tools](https://vaneulen.github.io/web-and-tools/)
+
+
+<div class="text-purple mb-2">
+  [WhatsApp Status](https://vaneulen.github.io/Status/)
+</div>
