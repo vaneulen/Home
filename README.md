@@ -1,6 +1,6 @@
 ## Home
 
-[WhatsApp Status](https://vaneulen.github.io/Status/)
+[Status](https://vaneulen.github.io/Status/)
 
 [Contact](https://vaneulen.github.io/Contact/)
 
