@@ -4,7 +4,7 @@
 
 [Contact](https://vaneulen.github.io/Contact/)
 
-[Bildergalerie art:ig](https://www.artig-muenchen.de/kunstler/manuel-knoedlseder/)
+[Bildergalerie art:ig](https://www.artig-muenchen.de/kunstler/vaneulen/)
 
 [Social Media](https://vaneulen.github.io/Social-Media/)
 
