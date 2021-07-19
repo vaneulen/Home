@@ -1,6 +1,6 @@
 ## Home 👨‍💻
 
-[Spenden Hochwasser Deutschland](vaneulen.com/Hochwasser)
+[Spenden Hochwasser Deutschland](Hochwasser)
 
 [Status](https://vaneulen.github.io/Status/)
 
